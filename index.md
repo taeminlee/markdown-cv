@@ -40,6 +40,10 @@ Korea University, Seoul, Korea
 `2015`
 Best Paper, "Design and Implementation of Simulator for educating Parallel K-Means", Korean Association of Computer Education Conference
 
+`2014`
+3rd place in the plagiarism detection competetion, "CopyCaptor : Plagiarized Source Retrieval System using Global word frequency and Local feedback", Notebook for PAN at CLEF 2013
+
+
 ## Experience
 
 `2019~`
