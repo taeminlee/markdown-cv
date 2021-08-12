@@ -27,12 +27,16 @@ Neural Networks, Natural Language Processing
 
 `2004-2008`
 BS Computer Science Engineer (3.46/4.50)
+
 Korea University, Seoul, Korea
 
 `2008-2020`
 MS Computer Science (4.44/4.50)
+
 Thesis: The Method for Predicting Real Estate Price Using Recurrent Neural Network
+
 Advisor: Prof. Soonyoung Jung
+
 Korea University, Seoul, Korea
 
 ## Awards
@@ -48,11 +52,14 @@ Best Paper, "Design and Implementation of Simulator for educating Parallel K-Mea
 
 `2019~`
 Part-time Lecturer (Korea National Open University, Korea)
+
 - Cloud System
+
 - Database
 
 `2019`
 Teaching Assistant (Korea National Open University, Korea)
+
 - Python, Under-graduate School (PRIME COLLEGE), Korea
 
 `2011-2014`
