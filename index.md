@@ -1,91 +1,108 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Taemin Lee's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Taemin Lee
+Researcher @ HIAI Research.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="taeminlee@korea.ac.kr">taeminlee@korea.ac.kr</a>
+| <a href="http://github.com/taeminlee">github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Researcher at Human-Inspired AI Research.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Programming, Artificial Intelligence, Database
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Neural Networks, Natural Language Processing
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2004`-`2008`
+BS Computer Science Engineer (3.46/4.50)
+Korea University, Seoul, Korea
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2008`-`2020`
+MS Computer Science (4.44/4.50)
+Thesis: The Method for Predicting Real Estate Price Using Recurrent Neural Network
+Advisor: Prof. Soonyoung Jung
+Korea University, Seoul, Korea
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2015`
+Best Paper, "Design and Implementation of Simulator for educating Parallel K-Means", Korean Association of Computer Education Conference
 
-Associate, *French Academy of Science*, Paris, France
+## Experience
 
+`2019`~
+Part-time Lecturer (Korea National Open University, Korea)
+- Cloud System
+- Database
 
+`2019`
+Teaching Assistant (Korea National Open University, Korea)
+- Python, Under-graduate School (PRIME COLLEGE), Korea
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2011`-`2014`
+Military service exempted technical research personnel (Korea University, Seoul, Korea)
 
 
-## Occupation
+## Projects
 
-`1600`
-__Royal Mint__, London
+`2021`~
+Human Inspired AI Resarch, (NRF, HIAI Research)
 
-- Warden
-- Minted coins
+`2021`~
+Development of AI customer center using MRC based automatic question answering system, (IITP, O2O, HIAI Research)
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2021`~
+Prediction system for real time online marketing perform based on AI, (IITP, BizSpring, HIAI Research)
 
+`2020`~
+대면면접 특성이 반영된 AI구조화 면접 및 점수화 시스템, (IITP, Withmind, HIAI Research)
 
+`2019`-`2020`
+REPAN, real estate price prediction, (REPAN, WITHCAT)
+
+`2016`-`2020`
+Genetree Realtime PCR Viewer, (Genetree, WITHCAT)
+
+`2012`-`2020`
+Biosewoom Realtime PCR viewer, (Biosewoom, KnP Solution, WITHCAT)
+
+`2015`-`2020`
+The development of chemical accident behavior analysis/damage prediction models and environmental risk map technology (Korea Environmental Industry and Technology Institute, Korea University)
+
+`2018`
+Roboreport, (Samsung startup incubating program, Connectdot)
+
+`2016`-`2018`
+Multidimensional Semantics-based Predictive Mobility Aggregation Analysis (National Research Foundation of Korea, Principal Investigator: Prof. Soonyoung Jung, Korea University)
+
+`2016`-`2018`
+A research of personalized coding learning system using Lexical-Syntactic-Semantic feature extraction from code for developing algorithmic thinking, (NRF, Korea University)
+
+`2017`
+Language rehabilitation training, (MOHW, MAAUM)
+
+`2016`-`2017`
+Unitek Lion6, (Unitek, KnP Solution)
+
+`2015`
+Language rehabilitation program, (MOHW, Korea University)
+
+ETC
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 2021 -->
 
 
