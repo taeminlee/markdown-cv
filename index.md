@@ -27,18 +27,25 @@ Neural Networks, Natural Language Processing
 
 `2004-2008`
 BS Computer Science Engineer (3.46/4.50)
+
 Korea University, Seoul, Korea
 
 `2008-2020`
 MS Computer Science (4.44/4.50)
+
 Thesis: The Method for Predicting Real Estate Price Using Recurrent Neural Network
+
 Advisor: Prof. Soonyoung Jung
+
 Korea University, Seoul, Korea
 
 ## Awards
 
 `2015`
 Best Paper, "Design and Implementation of Simulator for educating Parallel K-Means", Korean Association of Computer Education Conference
+
+`2013`
+3rd place in the plagiarism detection competetion, "CopyCaptor : Plagiarized Source Retrieval System using Global word frequency and Local feedback", Notebook for PAN at CLEF 2013
 
 ## Experience
 
