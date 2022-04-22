@@ -157,6 +157,10 @@ Language rehabilitation program, (MOHW, Korea University)
 
 `2018` "PyTicker : Relative Normalized Price Ratio Monitor between Cryptocurrency Exchanges", *Taemin Lee* International conference on interdisciplinary research on computer science, psychology, and education
 
+`2017` "Deep Representation of Raw Traffic Data: An Embed-and-Aggregate Framework for High-Level Traffic Analysis", Woosung Choi, Jonghyeon Min, *Taemin Lee*, Kyeongseok Hyun, Taehyung Lim & Soonyoung Jung, CUTE 2017, CSA 2017: Advances in Computer Science and Ubiquitous Computing
+
+`2017` "A corpus-based approach to classifying emotions using Korean linguistic features", Younghee Jung, Kinam Park, *Taemin Lee*, Jeongmin Chae & Soonyoung Jung, Cluster Computing
+
 `2016` "Improvement of position accuracy of geocoded coordination based on Ensemble method", *Taemin Lee*, Woosung Choi, Soonyoung Jung, 한국정보처리학회 2016년도 추계학술발표대회
 
 `2015` "Online coding skill learning system for Teaching and learning C language", *Taemin Lee*, Jeongmin Chae, Younghee Jung, Kinam Park, and Soonyoung Jung, 한국정보처리학회 2015년도 추계학술발표대회
@@ -177,7 +181,9 @@ Language rehabilitation program, (MOHW, Korea University)
 
 `2011` "The partial matching method for effective recognizing HLA entities", Chae, Jeong-Min and Jung, Young-Hee and *Lee, Tae-Min* and Chae, Ji-Eun and Oh, Heung-Bum and Jung, Soon-Young, The Journal of Korean Association of Computer Education
 
-`2009` "Automatic Extract User Intention from Web Search Log", Kinam park, Soonyoung Jung, Taewon Suh, Hyseung Ji, *Taemin Lee*, Heuiseok Lim,
+`2010` "Extracting Search Intentions from Web Search Logs", Kinam Park, *Taemin Lee*, Soonyoung Jung, Sangyep Nam and Heuiseok Lim
+
+`2009` "Automatic Extract User Intention from Web Search Log", Kinam park, Soonyoung Jung, Taewon Suh, Hyseung Ji, *Taemin Lee*, Heuiseok Lim, 2010 2nd International Conference on Information Technology Convergence and Services
 
 <!-- ### Footer
 
