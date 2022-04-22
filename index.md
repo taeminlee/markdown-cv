@@ -3,7 +3,7 @@ layout: cv
 title: Taemin Lee's CV
 ---
 # Taemin Lee
-Senior Researcher @ HIAI Research.
+Researcher @ HIAI Research.
 
 <div id="webaddress">
 <a href="taeminlee@korea.ac.kr">taeminlee@korea.ac.kr</a>
