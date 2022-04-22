@@ -145,6 +145,10 @@ Language rehabilitation program, (MOHW, Korea University)
 
 `2022` "Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions", Jaehyung Seo, *Taemin Lee* Hyeonseok Moon,Chanjun Park, Sugyeong Eo, Imatitikua D. Aiyanyo, Kinam Park, Aram So, Sungmin Ahn and Jeongbae Park, Mathematics
 
+`2021` "Semantic Similarity Retriever for Industrial Question Answering System", *Taemin Lee*, Jeongbae Park, Jaehyung Seo, Heuiseok Lim, International conference on interdisciplinary research on computer science, psychology, and education
+
+`2021` "Prediction of Return on Advertising Spend Leveraging Keyword Information", Hyeonseok Moon, Sugyeong Eo, *Taemin Lee*, Kinam Park, Jaehwa Chung, Heuiseok Lim, International conference on interdisciplinary research on computer science, psychology, and education
+
 `2020` "Korean Q&A Chatbot for COVID-19 News Domains Using Machine Reading Comprehension", *Lee, Taemin* and Park, Kinam and Park, Jeongbae and Jeong, Younghee and Chae, Jeongmin and Lim, Heuiseok, Annual Conference on Human and Language Technology
 
 `2018` "Information retrieval service for chemical accident response using messenger Chat bot", Jung, Hyun-Do and *Lee, Tae-Min* and Choi, Woo-Sung and Jung, Soon-Young, Proceedings of the Korea Information Processing Society Conference
