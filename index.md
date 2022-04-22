@@ -149,11 +149,17 @@ Language rehabilitation program, (MOHW, Korea University)
 
 `2018` "Information retrieval service for chemical accident response using messenger Chat bot", Jung, Hyun-Do and *Lee, Tae-Min* and Choi, Woo-Sung and Jung, Soon-Young, Proceedings of the Korea Information Processing Society Conference
 
+`2018` "The Retrieval of Regions with Similar Tendency in Geo-Tagged Dataset", Taehyung Lim, Woosung Choi, Minseok Kim, *Taemin Lee* and Soonyoung Jung, CUTE 2019/CSA 2018 LNEE 536
+
 `2018` "Spatial Clustering based Meteorological Fields Construction for Regional Vulnerability Assessment", *Lee, Taemin* and Choi, Woosung and Sohn, Jongryuel and Moon, Kyongwhan and Byeon, Sanghoon and Lee, Wookyun and Jung, Soonyoung, INSIGHT-Indonesian Society for Knowledge and Human Development
 
 `2018` "Plagiarism Detection on Source Code using Deep Learning Sentence Embedding", *Taemin Lee* ; Daeun Cha ; Soonyoung Jung ; Jeongmin Chae, International conference on interdisciplinary research on computer science, psychology, and education
 
 `2018` "PyTicker : Relative Normalized Price Ratio Monitor between Cryptocurrency Exchanges", *Taemin Lee* International conference on interdisciplinary research on computer science, psychology, and education
+
+`2016` "Improvement of position accuracy of geocoded coordination based on Ensemble method", *Taemin Lee*, Woosung Choi, Soonyoung Jung, 한국정보처리학회 2016년도 추계학술발표대회
+
+`2015` "Online coding skill learning system for Teaching and learning C language", *Taemin Lee*, Jeongmin Chae, Younghee Jung, Kinam Park, and Soonyoung Jung, 한국정보처리학회 2015년도 추계학술발표대회
 
 `2015` "Design and Implementation of Simulator for educating Parallel K-Means", *Taemin Lee* WooSung Choi, SoonYoung Jung, 한국컴퓨터교육학회 학술발표대회논문집
 
@@ -170,6 +176,8 @@ Language rehabilitation program, (MOHW, Korea University)
 `2012` "환경독성물질과 유전체 정보의 통합 연계 활용 시스템", 정영희 and *이태민* and 채정민 and 정순영, 한국컴퓨터교육학회 학술발표대회논문집
 
 `2011` "The partial matching method for effective recognizing HLA entities", Chae, Jeong-Min and Jung, Young-Hee and *Lee, Tae-Min* and Chae, Ji-Eun and Oh, Heung-Bum and Jung, Soon-Young, The Journal of Korean Association of Computer Education
+
+`2009` "Automatic Extract User Intention from Web Search Log", Kinam park, Soonyoung Jung, Taewon Suh, Hyseung Ji, *Taemin Lee*, Heuiseok Lim,
 
 <!-- ### Footer
 
