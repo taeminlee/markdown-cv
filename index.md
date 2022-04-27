@@ -63,7 +63,9 @@ Military service exempted technical research personnel (Korea University, Seoul,
 
 ## Demos
 
-`2022` AI Customer Response Evaluation, [http://aicre.hiai.kr/](http://aicre.hiai.kr/)
+`2022` AI Sentiment Analysis (with XAI), [http://sa.hiai.kr/](http://sa.hiai.kr/)
+
+`2022` AI Customer Response Evaluation (with XAI), [http://aicre.hiai.kr/](http://aicre.hiai.kr/)
 
 `2021` 공모주 시초/공모 예측, [http://38.tmkor.com/](http://38.tmkor.com/)
 
