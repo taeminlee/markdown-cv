@@ -54,7 +54,7 @@ Part-time Lecturer (Korea National Open University, Korea)
 - Cloud System
 - Database
 
-`2019`
+`2019~`
 Teaching Assistant (Korea National Open University, Korea)
 - Python, Under-graduate School (PRIME COLLEGE), Korea
 
