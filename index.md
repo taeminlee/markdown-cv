@@ -61,19 +61,19 @@ Teaching Assistant (Korea National Open University, Korea)
 `2011-2014`
 Military service exempted technical research personnel (Korea University, Seoul, Korea)
 
-## Demo
+## Demos
 
-`2022` AI Customer Response Evaluation, http://aicre.hiai.kr/
+`2022` AI Customer Response Evaluation, [http://aicre.hiai.kr/](http://aicre.hiai.kr/)
 
-`2021` 공모주 시초/공모 예측, http://38.tmkor.com/
+`2021` 공모주 시초/공모 예측, [http://38.tmkor.com/](http://38.tmkor.com/)
 
-`2021` covid 19 MRC + kakao talk chatbot demo, http://demo.tmkor.com/mrcv3
+`2021` covid 19 MRC + kakao talk chatbot demo, [http://demo.tmkor.com/mrcv3](http://demo.tmkor.com/mrcv3)
 
-`2020` covid 19 MRC demo, http://demo.tmkor.com/mrcv2
+`2020` covid 19 MRC demo, [http://demo.tmkor.com/mrcv2](http://demo.tmkor.com/mrcv2)
 
-`2020` 일상대화 생성기 데모 (based on dialo gpt2), http://demo.tmkor.com/dialo
+`2020` 일상대화 생성기 데모 (based on dialo gpt2), [http://demo.tmkor.com/dialo](http://demo.tmkor.com/dialo)
 
-`2020` 화장품 리뷰 생성기 데모 (based on CTRL), http://demo.tmkor.com/ctrl
+`2020` 화장품 리뷰 생성기 데모 (based on CTRL), [http://demo.tmkor.com/ctrl](http://demo.tmkor.com/ctrl)
 
 ## Projects
 
@@ -188,6 +188,15 @@ Language rehabilitation program, (MOHW, Korea University)
 `2010` "Extracting Search Intentions from Web Search Logs", Kinam Park, *Taemin Lee*, Soonyoung Jung, Sangyep Nam and Heuiseok Lim
 
 `2009` "Automatic Extract User Intention from Web Search Log", Kinam park, Soonyoung Jung, Taewon Suh, Hyseung Ji, *Taemin Lee*, Heuiseok Lim, 2010 2nd International Conference on Information Technology Convergence and Services
+
+## Patents
+
+`2022` "광고 투입에 관한 수익의 예측에 기초한 태스크 분리 방법 및 이를 수행하는 장치", 문현석, 임희석, 박기남, *이태민*
+
+`2021` "의미 유사도 기반 응답 획득 장치 및 방법", 서재형, 임희석, *이태민*, 박정배
+
+`2018` "메신저 CHAT BOT을 이용한 화학사고 대응정보 검색 서비스", 정순영, 정현도, *이태민*, 최우성, 김민석
+
 
 <!-- ### Footer
 
