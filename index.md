@@ -145,6 +145,8 @@ Language rehabilitation program, (MOHW, Korea University)
 
 ## Publications
 
+`2022` "Return on Advertising Spend Prediction with Task Decomposition-Based LSTM Model", Hyeonseok Moon, *Taemin Lee*, Jaehyung Seo, Chanjun Park, Sugyeong Eo, Imatitikua D. Aiyanyo, Jeongbae Park, Aram So, Kyoungwha Ok and Kinam Park, Mathematics
+
 `2022` "Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions", Jaehyung Seo, *Taemin Lee* Hyeonseok Moon,Chanjun Park, Sugyeong Eo, Imatitikua D. Aiyanyo, Kinam Park, Aram So, Sungmin Ahn and Jeongbae Park, Mathematics
 
 `2021` "Semantic Similarity Retriever for Industrial Question Answering System", *Taemin Lee*, Jeongbae Park, Jaehyung Seo, Heuiseok Lim, International conference on interdisciplinary research on computer science, psychology, and education
