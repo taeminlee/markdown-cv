@@ -79,11 +79,13 @@ Military service exempted technical research personnel (Korea University, Seoul,
 
 ## Projects
 
+`2022~`
+Development of Interactive Book Recommendation Device Through AI-based Voice Analysis (IITP, CHAEUM CNI, HIAI Research)
+
 `2021~`
 Human Inspired AI Resarch, (NRF, HIAI Research)
 
 `2022~`
-
 건설기준 디지털화 구축 데이터 표준화 연구, (한국건설기술연구원, HIAI Research)
 
 `2021-2022`
