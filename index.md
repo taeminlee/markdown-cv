@@ -13,7 +13,8 @@ Researcher @ HIAI Research.
 
 ## Currently
 
-Senior Researcher at Human-Inspired AI Research.
+Senior Researcher at [Human-Inspired AI Research](http://hiai.korea.ac.kr/)
+Registered Director at [Next Generation Artificial Intelligence Convergence Association](https://ingai.org/)
 
 ### Specialized in
 
@@ -49,6 +50,10 @@ Best Paper, "Design and Implementation of Simulator for educating Parallel K-Mea
 
 ## Experience
 
+`2022~`
+Teaching Assistant (Korea University, Korea)
+- [AI Practice](https://github.com/taeminlee/ai_practice)
+
 `2019~`
 Part-time Lecturer (Korea National Open University, Korea)
 - Cloud System
@@ -61,31 +66,24 @@ Teaching Assistant (Korea National Open University, Korea)
 `2011-2014`
 Military service exempted technical research personnel (Korea University, Seoul, Korea)
 
-## Demos
-
-`2022` AI Sentiment Analysis (with XAI), [http://sa.hiai.kr/](http://sa.hiai.kr/)
-
-`2022` AI Customer Response Evaluation (with XAI), [http://aicre.hiai.kr/](http://aicre.hiai.kr/)
-
-`2021` 공모주 시초/공모 예측, [http://38.tmkor.com/](http://38.tmkor.com/)
-
-`2021` covid 19 MRC + kakao talk chatbot demo, [http://demo.tmkor.com/mrcv3](http://demo.tmkor.com/mrcv3)
-
-`2020` covid 19 MRC demo, [http://demo.tmkor.com/mrcv2](http://demo.tmkor.com/mrcv2)
-
-`2020` 일상대화 생성기 데모 (based on dialo gpt2), [http://demo.tmkor.com/dialo](http://demo.tmkor.com/dialo)
-
-`2020` 화장품 리뷰 생성기 데모 (based on CTRL), [http://demo.tmkor.com/ctrl](http://demo.tmkor.com/ctrl)
-
 ## Projects
 
-`2022~`
-Development of Interactive Book Recommendation Device Through AI-based Voice Analysis (IITP, CHAEUM CNI, HIAI Research)
+`2023~`
+AI를 이용한 광상 부존지 예측 모델 (KIGAM, HIAI Research)
+
+`2023~`
+건설기준 디지털 전환을 위한 건설기준 라이브러리 및 온톨로지 구축활용 기술개발 연구 (한국건설기술연구원, HIAI Research)
 
 `2021~`
 Human Inspired AI Resarch, (NRF, HIAI Research)
 
-`2022~`
+`2023`
+[KULLM](https://github.com/nlpai-lab/KULLM) (HIAI Reserach)
+
+`2022~2023`
+Development of Interactive Book Recommendation Device Through AI-based Voice Analysis (IITP, CHAEUM CNI, HIAI Research)
+
+`2022~2023`
 건설기준 디지털화 구축 데이터 표준화 연구, (한국건설기술연구원, HIAI Research)
 
 `2021-2022`
@@ -147,6 +145,14 @@ Language rehabilitation program, (MOHW, Korea University)
 
 ## Publications
 
+`2023` "KULLM: Learning to Construct Korean Instruction-following Large Language Models", Seungjun Lee, *Taemin Lee*, Jeongwoo Lee, Yoonna Jang, Heuiseok Lim, Annual Conference on Human and Language Technology
+
+`2023` "KFREB: Korean Fictional Retrieval-based Evaluation Benchmark for Generative Large Language Models", Jungseob Lee1, Junyoung Son1, *Taemin Lee*, Chanjun Park, Myunghoon Kang, Jeongbae Park, Heuiseok Lim, Annual Conference on Human and Language Technology
+
+`2023` "QA Pair Passage RAG-based LLM Korean chatbot service", Joongmin Shin, Jaewwook Lee, Kyungmin Kim, *Taemin Lee*, Sungmin Ahn, JeongBae Park, Heuiseok Lim, Annual Conference on Human and Language Technology
+
+`2023` "Comparative analysis of large language model Korean quality based on zero-shot learning", Yuna Hur, Aram So, *Taemin Lee*, Joongmin Shin, JeongBae Park, Kinam Park, Sungmin Ahn, Heuiseok Lim, Annual Conference on Human and Language Technology
+
 `2022` "Return on Advertising Spend Prediction with Task Decomposition-Based LSTM Model", Hyeonseok Moon, *Taemin Lee*, Jaehyung Seo, Chanjun Park, Sugyeong Eo, Imatitikua D. Aiyanyo, Jeongbae Park, Aram So, Kyoungwha Ok and Kinam Park, Mathematics
 
 `2022` "Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions", Jaehyung Seo, *Taemin Lee* Hyeonseok Moon,Chanjun Park, Sugyeong Eo, Imatitikua D. Aiyanyo, Kinam Park, Aram So, Sungmin Ahn and Jeongbae Park, Mathematics
@@ -203,6 +209,22 @@ Language rehabilitation program, (MOHW, Korea University)
 
 `2018` "메신저 CHAT BOT을 이용한 화학사고 대응정보 검색 서비스", 정순영, 정현도, *이태민*, 최우성, 김민석
 
+
+## Demos
+
+`2022` AI Sentiment Analysis (with XAI)
+
+`2022` AI Customer Response Evaluation (with XAI)
+
+`2021` 공모주 시초/공모 예측
+
+`2021` covid 19 MRC + kakao talk chatbot demo
+
+`2020` covid 19 MRC demo
+
+`2020` 일상대화 생성기 데모 (based on dialo gpt2)
+
+`2020` 화장품 리뷰 생성기 데모 (based on CTRL)
 
 <!-- ### Footer
 
