@@ -68,22 +68,28 @@ Military service exempted technical research personnel (Korea University, Seoul,
 
 ## Projects
 
-`2023~`
-AI를 이용한 광상 부존지 예측 모델 (KIGAM, HIAI Research)
+`2024-`
+벡터 임베딩 구축과 유사도 검색 원천기술 개발 및 프롬프팅 노하우 (온더아이티, HIAI Research)
 
-`2023~`
-건설기준 디지털 전환을 위한 건설기준 라이브러리 및 온톨로지 구축활용 기술개발 연구 (한국건설기술연구원, HIAI Research)
-
-`2021~`
-Human Inspired AI Resarch, (NRF, HIAI Research)
+`2023-`
+Gaon-Large Language Model (가온플랫폼, HIAI Research)
 
 `2023`
-[KULLM](https://github.com/nlpai-lab/KULLM) (HIAI Reserach)
+AI를 이용한 광상 부존지 예측 모델 (KIGAM, HIAI Research)
 
-`2022~2023`
+`2023-`
+건설기준 디지털 전환을 위한 건설기준 라이브러리 및 온톨로지 구축활용 기술개발 연구 (한국건설기술연구원, HIAI Research)
+
+`2023`
+**[KULLM](https://github.com/nlpai-lab/KULLM)** (HIAI Reserach)
+
+`2021-`
+Human Inspired AI Resarch, (NRF, HIAI Research)
+
+`2022-2023`
 Development of Interactive Book Recommendation Device Through AI-based Voice Analysis (IITP, CHAEUM CNI, HIAI Research)
 
-`2022~2023`
+`2022-2023`
 건설기준 디지털화 구축 데이터 표준화 연구, (한국건설기술연구원, HIAI Research)
 
 `2021-2022`
@@ -95,7 +101,7 @@ Prediction system for real time online marketing perform based on AI, (IITP, Biz
 `2021`
 EBS AI 학습진단 시스템 모델 검증 및 개선방안 연구, (EBS, HIAI Research)
 
-`2020~`
+`2020-2022`
 대면면접 특성이 반영된 AI구조화 면접 및 점수화 시스템, (IITP, Withmind, HIAI Research)
 
 `2019-2020`
@@ -144,6 +150,10 @@ Language rehabilitation program, (MOHW, Korea University)
 환경독성과 내분비계/뇌신경계 질환개발과 환경독성 통합 데이터베이스 구축, (NRF, Korea University)
 
 ## Publications
+
+`2023` "Assessing the Retrieval-based Generation Capabilities of Large Language Models: A Call for a New Benchmark", Jungseob Lee, Junyoung Son, *Taemin Lee*, Chanjun Park, Myunghoon Kang, Yuna Hur, ICICPE 2023
+
+`2023` "Evaluating ChatGPT Proficiency in Table QA: Exploring Generative Models in Structured Data Understanding", JoongMin Shin, Yuna Hur, *Taemin Lee*, Sungmin Ahn, JeongBae Park, ICICPE 2023
 
 `2023` "KULLM: Learning to Construct Korean Instruction-following Large Language Models", Seungjun Lee, *Taemin Lee*, Jeongwoo Lee, Yoonna Jang, Heuiseok Lim, Annual Conference on Human and Language Technology
 
