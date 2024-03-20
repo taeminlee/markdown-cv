@@ -3,6 +3,9 @@ layout: cv
 title: Taemin Lee's CV
 ---
 # Taemin Lee
+
+![](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4tAqj4oAAAAJ&citpid=1)
+
 Researcher @ HIAI Research.
 
 <div id="webaddress">
@@ -66,7 +69,21 @@ Teaching Assistant (Korea National Open University, Korea)
 `2011-2014`
 Military service exempted technical research personnel (Korea University, Seoul, Korea)
 
+## Open Source Contributions
+
+`2024`
+[Massive Text Embedding Benchmark](https://github.com/embeddings-benchmark/mteb)
+
+`2024`
+[GLiNER](https://github.com/urchade/GLiNER)
+
+`2020`
+[Korean Sentence Splitter](https://github.com/hyunwoongko/kss)
+
 ## Projects
+
+`2024`
+[Ko-Gemma](https://github.com/KU-HIAI/Ko-Gemma) (HIAI Research)
 
 `2024-`
 벡터 임베딩 구축과 유사도 검색 원천기술 개발 및 프롬프팅 노하우 (온더아이티, HIAI Research)
