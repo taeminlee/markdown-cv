@@ -72,6 +72,9 @@ Military service exempted technical research personnel (Korea University, Seoul,
 ## Open Source Contributions
 
 `2024`
+[vllm](https://github.com/vllm-project/vllm)
+
+`2024`
 [Massive Text Embedding Benchmark](https://github.com/embeddings-benchmark/mteb)
 
 `2024`
