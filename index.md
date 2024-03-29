@@ -86,6 +86,9 @@ Military service exempted technical research personnel (Korea University, Seoul,
 ## Projects
 
 `2024`
+[GLiNER-ko](https://huggingface.co/taeminlee/gliner_ko) (HIAI Research)
+
+`2024`
 [Ko-Gemma](https://github.com/KU-HIAI/Ko-Gemma) (HIAI Research)
 
 `2024-`
