@@ -72,6 +72,9 @@ Military service exempted technical research personnel (Korea University, Seoul,
 ## Open Source Contributions
 
 `2024`
+[huggingface chat-ui](https://github.com/huggingface/chat-ui)
+
+`2024`
 [vllm](https://github.com/vllm-project/vllm)
 
 `2024`
@@ -173,6 +176,8 @@ Language rehabilitation program, (MOHW, Korea University)
 환경독성과 내분비계/뇌신경계 질환개발과 환경독성 통합 데이터베이스 구축, (NRF, Korea University)
 
 ## Publications
+
+`2024` "자연어 처리 기술을 활용한 인구 고령화 관련 토픽 분석", 박현정(Hyunjung Park), **이태민(Taemin Lee)**, 임희석(Heuiseok Lim), 한국IT서비스학회지, 23(1), 55-79. 10.9716/KITS.2024.23.1.055
 
 `2023` "Assessing the Retrieval-based Generation Capabilities of Large Language Models: A Call for a New Benchmark", Jungseob Lee, Junyoung Son, *Taemin Lee*, Chanjun Park, Myunghoon Kang, Yuna Hur, ICICPE 2023
 
