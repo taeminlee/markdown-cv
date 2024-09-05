@@ -179,31 +179,31 @@ Language rehabilitation program, (MOHW, Korea University)
 
 `2024` "자연어 처리 기술을 활용한 인구 고령화 관련 토픽 분석", 박현정(Hyunjung Park), **이태민(Taemin Lee)**, 임희석(Heuiseok Lim), 한국IT서비스학회지, 23(1), 55-79. 10.9716/KITS.2024.23.1.055
 
-`2023` "Assessing the Retrieval-based Generation Capabilities of Large Language Models: A Call for a New Benchmark", Jungseob Lee, Junyoung Son, *Taemin Lee*, Chanjun Park, Myunghoon Kang, Yuna Hur, ICICPE 2023
+`2023` "Assessing the Retrieval-based Generation Capabilities of Large Language Models: A Call for a New Benchmark", Jungseob Lee, Junyoung Son, *Taemin Lee*, Chanjun Park, Myunghoon Kang, Yuna Hur, ICICPE 2023, 9-11
 
 `2023` "Evaluating ChatGPT Proficiency in Table QA: Exploring Generative Models in Structured Data Understanding", JoongMin Shin, Yuna Hur, *Taemin Lee*, Sungmin Ahn, JeongBae Park, ICICPE 2023
 
-`2023` "KULLM: Learning to Construct Korean Instruction-following Large Language Models", Seungjun Lee, *Taemin Lee*, Jeongwoo Lee, Yoonna Jang, Heuiseok Lim, Annual Conference on Human and Language Technology
+`2023` "KULLM: Learning to Construct Korean Instruction-following Large Language Models", Seungjun Lee, *Taemin Lee*, Jeongwoo Lee, Yoonna Jang, Heuiseok Lim, Annual Conference on Human and Language Technology, 196-202
 
-`2023` "KFREB: Korean Fictional Retrieval-based Evaluation Benchmark for Generative Large Language Models", Jungseob Lee1, Junyoung Son1, *Taemin Lee*, Chanjun Park, Myunghoon Kang, Jeongbae Park, Heuiseok Lim, Annual Conference on Human and Language Technology
+`2023` "KFREB: Korean Fictional Retrieval-based Evaluation Benchmark for Generative Large Language Models", Jungseob Lee1, Junyoung Son1, *Taemin Lee*, Chanjun Park, Myunghoon Kang, Jeongbae Park, Heuiseok Lim, Annual Conference on Human and Language Technology, 9-13
 
-`2023` "QA Pair Passage RAG-based LLM Korean chatbot service", Joongmin Shin, Jaewwook Lee, Kyungmin Kim, *Taemin Lee*, Sungmin Ahn, JeongBae Park, Heuiseok Lim, Annual Conference on Human and Language Technology
+`2023` "QA Pair Passage RAG-based LLM Korean chatbot service", Joongmin Shin, Jaewwook Lee, Kyungmin Kim, *Taemin Lee*, Sungmin Ahn, JeongBae Park, Heuiseok Lim, Annual Conference on Human and Language Technology, 683-689
 
-`2023` "Comparative analysis of large language model Korean quality based on zero-shot learning", Yuna Hur, Aram So, *Taemin Lee*, Joongmin Shin, JeongBae Park, Kinam Park, Sungmin Ahn, Heuiseok Lim, Annual Conference on Human and Language Technology
+`2023` "Comparative analysis of large language model Korean quality based on zero-shot learning", Yuna Hur, Aram So, *Taemin Lee*, Joongmin Shin, JeongBae Park, Kinam Park, Sungmin Ahn, Heuiseok Lim, Annual Conference on Human and Language Technology, 722-725
 
-`2022` "Return on Advertising Spend Prediction with Task Decomposition-Based LSTM Model", Hyeonseok Moon, *Taemin Lee*, Jaehyung Seo, Chanjun Park, Sugyeong Eo, Imatitikua D. Aiyanyo, Jeongbae Park, Aram So, Kyoungwha Ok and Kinam Park, Mathematics
+`2022` "Return on Advertising Spend Prediction with Task Decomposition-Based LSTM Model", Hyeonseok Moon, *Taemin Lee*, Jaehyung Seo, Chanjun Park, Sugyeong Eo, Imatitikua D. Aiyanyo, Jeongbae Park, Aram So, Kyoungwha Ok and Kinam Park, Mathematics, 1637
 
-`2022` "Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions", Jaehyung Seo, *Taemin Lee* Hyeonseok Moon,Chanjun Park, Sugyeong Eo, Imatitikua D. Aiyanyo, Kinam Park, Aram So, Sungmin Ahn and Jeongbae Park, Mathematics
+`2022` "Dense-to-Question and Sparse-to-Answer: Hybrid Retriever System for Industrial Frequently Asked Questions", Jaehyung Seo, *Taemin Lee* Hyeonseok Moon,Chanjun Park, Sugyeong Eo, Imatitikua D. Aiyanyo, Kinam Park, Aram So, Sungmin Ahn and Jeongbae Park, Mathematics, 1335
 
 `2021` "Semantic Similarity Retriever for Industrial Question Answering System", *Taemin Lee*, Jeongbae Park, Jaehyung Seo, Heuiseok Lim, International conference on interdisciplinary research on computer science, psychology, and education
 
 `2021` "Prediction of Return on Advertising Spend Leveraging Keyword Information", Hyeonseok Moon, Sugyeong Eo, *Taemin Lee*, Kinam Park, Jaehwa Chung, Heuiseok Lim, International conference on interdisciplinary research on computer science, psychology, and education
 
-`2020` "Korean Q&A Chatbot for COVID-19 News Domains Using Machine Reading Comprehension", *Lee, Taemin* and Park, Kinam and Park, Jeongbae and Jeong, Younghee and Chae, Jeongmin and Lim, Heuiseok, Annual Conference on Human and Language Technology
+`2020` "Korean Q&A Chatbot for COVID-19 News Domains Using Machine Reading Comprehension", *Lee, Taemin* and Park, Kinam and Park, Jeongbae and Jeong, Younghee and Chae, Jeongmin and Lim, Heuiseok, Annual Conference on Human and Language Technology, 540-542
 
-`2018` "Information retrieval service for chemical accident response using messenger Chat bot", Jung, Hyun-Do and *Lee, Tae-Min* and Choi, Woo-Sung and Jung, Soon-Young, Proceedings of the Korea Information Processing Society Conference
+`2018` "Information retrieval service for chemical accident response using messenger Chat bot", Jung, Hyun-Do and *Lee, Tae-Min* and Choi, Woo-Sung and Jung, Soon-Young, Proceedings of the Korea Information Processing Society Conference, 467-469
 
-`2018` "The Retrieval of Regions with Similar Tendency in Geo-Tagged Dataset", Taehyung Lim, Woosung Choi, Minseok Kim, *Taemin Lee* and Soonyoung Jung, CUTE 2019/CSA 2018 LNEE 536
+`2018` "The Retrieval of Regions with Similar Tendency in Geo-Tagged Dataset", Taehyung Lim, Woosung Choi, Minseok Kim, *Taemin Lee* and Soonyoung Jung, CUTE 2019/CSA 2018 LNEE 536, 42-47
 
 `2018` "Spatial Clustering based Meteorological Fields Construction for Regional Vulnerability Assessment", *Lee, Taemin* and Choi, Woosung and Sohn, Jongryuel and Moon, Kyongwhan and Byeon, Sanghoon and Lee, Wookyun and Jung, Soonyoung, INSIGHT-Indonesian Society for Knowledge and Human Development
 
@@ -213,31 +213,38 @@ Language rehabilitation program, (MOHW, Korea University)
 
 `2017` "Deep Representation of Raw Traffic Data: An Embed-and-Aggregate Framework for High-Level Traffic Analysis", Woosung Choi, Jonghyeon Min, *Taemin Lee*, Kyeongseok Hyun, Taehyung Lim & Soonyoung Jung, CUTE 2017, CSA 2017: Advances in Computer Science and Ubiquitous Computing
 
-`2017` "A corpus-based approach to classifying emotions using Korean linguistic features", Younghee Jung, Kinam Park, *Taemin Lee*, Jeongmin Chae & Soonyoung Jung, Cluster Computing
+`2017` "A corpus-based approach to classifying emotions using Korean linguistic features", Younghee Jung, Kinam Park, *Taemin Lee*, Jeongmin Chae & Soonyoung Jung, Cluster Computing, 583-595
 
-`2016` "Improvement of position accuracy of geocoded coordination based on Ensemble method", *Taemin Lee*, Woosung Choi, Soonyoung Jung, 한국정보처리학회 2016년도 추계학술발표대회
+`2016` "Improvement of position accuracy of geocoded coordination based on Ensemble method", *Taemin Lee*, Woosung Choi, Soonyoung Jung, 한국정보처리학회 2016년도 추계학술발표대회, 818-819
 
-`2015` "Online coding skill learning system for Teaching and learning C language", *Taemin Lee*, Jeongmin Chae, Younghee Jung, Kinam Park, and Soonyoung Jung, 한국정보처리학회 2015년도 추계학술발표대회
+`2015` "Online coding skill learning system for Teaching and learning C language", *Taemin Lee*, Jeongmin Chae, Younghee Jung, Kinam Park, and Soonyoung Jung, 한국정보처리학회 2015년도 추계학술발표대회, 1659-1661
 
-`2015` "Design and Implementation of Simulator for educating Parallel K-Means", *Taemin Lee* WooSung Choi, SoonYoung Jung, 한국컴퓨터교육학회 학술발표대회논문집
+`2015` "Design and Implementation of Simulator for educating Parallel K-Means", *Taemin Lee* WooSung Choi, SoonYoung Jung, 한국컴퓨터교육학회 학술발표대회논문집, 101-105
 
-`2014` "Identifying non-elliptical entity mentions in a coordinated NP with ellipses", Chae, Jeongmin and Jung, Younghee and *Lee, Taemin* and Jung, Soonyoung and Huh, Chan and Kim, Gilhan and Kim, Hyeoncheol and Oh, Heungbum, Journal of biomedical informatics
+`2015` “DBSCAN 학습 시뮬레이터 설계 및 구현”, 최우성, *이태민*, 정순영, 한국컴퓨터교육학회 학술발표대회 논문집 Vol.19 No. 1 (2015)-
+
+`2014` "Identifying non-elliptical entity mentions in a coordinated NP with ellipses", Chae, Jeongmin and Jung, Younghee and *Lee, Taemin* and Jung, Soonyoung and Huh, Chan and Kim, Gilhan and Kim, Hyeoncheol and Oh, Heungbum, Journal of biomedical informatics, 139-152
 
 `2013` "CopyCaptor: Plagiarized source retrieval system using global word frequency and local feedback", *Lee, Taemin* and Chae, Jeongmin and Park, Kinam and Jung, Soon Young, Working Notes for CLEF Conference
 
 `2013` "An unordered n-gram model for Plagiarism Detection", *Lee, Taemin* and Chae, Jeong-min and Park, Ki-nam and Jung, Soon-Young, International Conference on Convergence Technology
 
-`2012` "A Study on the Key Competency of Converged Contents: Focused on the ICT and Eco-system Viewpoints", *Lee, Tae-Min* and Jang, Hong-Jun and Jung, Young-hee and Kim, Ja-Mee and Jung, Soon-Young, Proceedings of the Korea Information Processing Society Conference
+`2012` "A Study on the Key Competency of Converged Contents: Focused on the ICT and Eco-system Viewpoints", *Lee, Tae-Min* and Jang, Hong-Jun and Jung, Young-hee and Kim, Ja-Mee and Jung, Soon-Young, Proceedings of the Korea Information Processing Society Conference, 1281-1283
 
 `2012` "Automatic extraction of user’s search intention from web search logs", Park, Kinam and Jee, Hyesung and *Lee, Taemin* and Jung, Soonyoung and Lim, Heuiseok, Multimedia tools and applications
 
-`2012` "환경독성물질과 유전체 정보의 통합 연계 활용 시스템", 정영희 and *이태민* and 채정민 and 정순영, 한국컴퓨터교육학회 학술발표대회논문집
+`2012` "환경독성물질과 유전체 정보의 통합 연계 활용 시스템", 정영희 and *이태민* and 채정민 and 정순영, 한국컴퓨터교육학회 학술발표대회논문집, 255-258
 
-`2011` "The partial matching method for effective recognizing HLA entities", Chae, Jeong-Min and Jung, Young-Hee and *Lee, Tae-Min* and Chae, Ji-Eun and Oh, Heung-Bum and Jung, Soon-Young, The Journal of Korean Association of Computer Education
+`2011` "The partial matching method for effective recognizing HLA entities", Chae, Jeong-Min and Jung, Young-Hee and *Lee, Tae-Min* and Chae, Ji-Eun and Oh, Heung-Bum and Jung, Soon-Young, The Journal of Korean Association of Computer Education, 83-94
 
 `2010` "Extracting Search Intentions from Web Search Logs", Kinam Park, *Taemin Lee*, Soonyoung Jung, Sangyep Nam and Heuiseok Lim
 
-`2009` "Automatic Extract User Intention from Web Search Log", Kinam park, Soonyoung Jung, Taewon Suh, Hyseung Ji, *Taemin Lee*, Heuiseok Lim, 2010 2nd International Conference on Information Technology Convergence and Services
+`2010` “Development of the QSTR model generation software using machine learning methods”, Chan Huh , Gilhan Kim, Jeongmin Chae, *TaeMin Lee*, YoungHee Jung, SoonYoung Jung and Hyeoncheol Kim, ICONIC 2010, (2010)
+
+`2009` "Automatic Extract User Intention from Web Search Log", Kinam park, Soonyoung Jung, Taewon Suh, Hyseung Ji, *Taemin Lee*, Heuiseok Lim, 2010 2nd International Conference on Information Technology Convergence and Services, 21-32
+
+`2009` “Automatic extraction of HLA-disease interaction information from biomedical literature”, JeongMin Chae, JiEun Chae, *Taemin Lee*, YoungHee Jung, HeungBum Oh, SoonYoung Jung, Advances in Computational Science and Engineering (SCOPUS), pp. 219-230 (2009)
+
 
 ## Patents
 
