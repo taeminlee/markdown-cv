@@ -177,6 +177,12 @@ Language rehabilitation program, (MOHW, Korea University)
 
 ## Publications
 
+`2024` "KoE5: A New Dataset and Model for Improving Korean Embedding Performance", Youngjoon Jang, Junyoung Son, Chanjun Park, Soonwoo Choi, Byeonggoo Lee, *Taemin Lee*, Heuiseok Lim, Proceedings of the 36th Annual Conference on Human and Cognitive Language Technology, pp. 239-244
+
+`2024` "Building Korean Embedding Benchmarks with Large Language Models", Junyoung Son, Youngjoon Jang, Soonwoo Choi, Byeonggoo Lee, *Taemin Lee*, Heuiseok Lim, Proceedings of the 36th Annual Conference on Human and Cognitive Language Technology, pp. 182-186
+
+`2024` "X-Optimization for Language Transfer", Jungseob Lee1, Hyeonseok Moon1, *Taemin Lee*, Kinam Park, Heuiseok Lim, Proceedings of the 36th Annual Conference on Human and Cognitive Language Technology, pp. 89-93
+
 `2024` "자연어 처리 기술을 활용한 인구 고령화 관련 토픽 분석", 박현정(Hyunjung Park), **이태민(Taemin Lee)**, 임희석(Heuiseok Lim), 한국IT서비스학회지, 23(1), 55-79. 10.9716/KITS.2024.23.1.055
 
 `2023` "Assessing the Retrieval-based Generation Capabilities of Large Language Models: A Call for a New Benchmark", Jungseob Lee, Junyoung Son, *Taemin Lee*, Chanjun Park, Myunghoon Kang, Yuna Hur, ICICPE 2023, 9-11
