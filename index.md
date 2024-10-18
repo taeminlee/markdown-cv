@@ -177,6 +177,8 @@ Language rehabilitation program, (MOHW, Korea University)
 
 ## Publications
 
+`2024` "Intelligent Predictive Maintenance RAG framework for Power Plants: Enhancing QA with StyleDFS and Domain Specific Instruction Tuning", SeongTae Hong, Shin Joong Min, Jaehyung Seo, *Taemin Lee*, Jeongbae Park, Cho Man Young, Byeongho Choi, Heuiseok Lim, The 2024 Conference on Empirical Methods in Natural Language Processing (Industry Track)
+
 `2024` "KoE5: A New Dataset and Model for Improving Korean Embedding Performance", Youngjoon Jang, Junyoung Son, Chanjun Park, Soonwoo Choi, Byeonggoo Lee, *Taemin Lee*, Heuiseok Lim, Proceedings of the 36th Annual Conference on Human and Cognitive Language Technology, pp. 239-244
 
 `2024` "Building Korean Embedding Benchmarks with Large Language Models", Junyoung Son, Youngjoon Jang, Soonwoo Choi, Byeonggoo Lee, *Taemin Lee*, Heuiseok Lim, Proceedings of the 36th Annual Conference on Human and Cognitive Language Technology, pp. 182-186
